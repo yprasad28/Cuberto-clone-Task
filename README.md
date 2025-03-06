@@ -29,6 +29,8 @@ In this assignment, I have demonstrated my frontend development skills by recrea
 - **Scroll-triggered animations**
 - **Clean, responsive implementation**
 
+-![image](https://github.com/yprasad28/Cuberto-clone-Task/blob/4ed649dd693f7148bfc7bdf27a3305aaa3cd11a9/Screenshot%202025-03-06%20111140.png)
+
 ## Installation
 
 To get started with **FrontendDevInternTask**, follow these steps:
